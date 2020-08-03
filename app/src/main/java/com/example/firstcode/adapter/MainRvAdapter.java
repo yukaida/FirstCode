@@ -40,7 +40,7 @@ public class MainRvAdapter extends RecyclerView.Adapter<MainRvAdapter.MyViewHold
         holder.textView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(context, holder.textView.getText().toString()+"位置", Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, holder.textView.getText().toString()+"位置version1.0->master", Toast.LENGTH_SHORT).show();
             }
         });
     }
