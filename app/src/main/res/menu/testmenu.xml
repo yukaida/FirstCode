@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/test_menu_study"
+        android:title="学习" />
+    <item
+        android:id="@+id/test_menu_relax"
+        android:title="放松"
+        />
+    <item
+        android:id="@+id/test_menu_sleep"
+        android:title="睡觉"
+        />
+
+
+</menu>
